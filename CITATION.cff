@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite it as below."
+title: "SEAR EduAdapt ablation: educationally adapted sentence embeddings for proposition-level assessment"
+version: 1.0.0
+date-released: 2026-11-19
+license: MIT
+type: software
+authors:
+  - family-names: "Umam"
+    given-names: "Busro Akramul"
+    email: "busro.umam@gmail.com"
+    affiliation: "Department of Informatics Engineering, Faculty of Engineering, Universitas Islam Madura, Indonesia"
+keywords:
+  - concept map assessment
+  - Sentence-BERT
+  - automatic short answer grading
+  - educational NLP
+  - domain shift

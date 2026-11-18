@@ -1,0 +1,10 @@
+{
+  "title": "SEAR EduAdapt ablation: code and held-out results for educationally adapted sentence embeddings (SciEntsBank)",
+  "upload_type": "software",
+  "description": "Code, fold-wise thresholds, per-instance predictions (without answer text) and figures for a held-out ablation comparing TF-IDF, a general Sentence-BERT encoder (all-mpnet-base-v2) and SBERT-EduAdapt on the official SciEntsBank test splits (UA, UQ, UD).",
+  "license": "MIT",
+  "keywords": ["concept map assessment", "Sentence-BERT", "automatic short answer grading", "educational NLP", "domain shift"],
+  "creators": [
+    {"name": "Umam, Busro Akramul", "affiliation": "Universitas Islam Madura"}
+  ]
+}

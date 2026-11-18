@@ -1,0 +1,12 @@
+# Large or regenerable artefacts
+SBERT-EduAdapt-v1-heldout/
+checkpoints/
+**/cache/
+scientsbank_C1C4.csv
+SBERT_training_pairs.csv
+sear_results/
+sear_results.zip
+log_pipeline.txt
+__pycache__/
+*.pyc
+.venv/

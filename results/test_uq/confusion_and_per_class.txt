@@ -1,0 +1,36 @@
+=== TF-IDF ===
+Binary (rows gold [1,0], cols pred [1,0]):
+[[346 130]
+ [115 142]]
+Ordinal (rows gold [C1,C2,C3/C4], cols pred):
+[[162 107  32]
+ [ 57  80  38]
+ [ 40 109 108]]
+  C1: P=0.625 R=0.538 F1=0.579 n=301
+  C2: P=0.270 R=0.457 F1=0.340 n=175
+  C3/C4: P=0.607 R=0.420 F1=0.497 n=257
+
+=== General SBERT ===
+Binary (rows gold [1,0], cols pred [1,0]):
+[[370 106]
+ [123 134]]
+Ordinal (rows gold [C1,C2,C3/C4], cols pred):
+[[200  71  30]
+ [ 78  44  53]
+ [ 78  62 117]]
+  C1: P=0.562 R=0.664 F1=0.609 n=301
+  C2: P=0.249 R=0.251 F1=0.250 n=175
+  C3/C4: P=0.585 R=0.455 F1=0.512 n=257
+
+=== SBERT-EduAdapt ===
+Binary (rows gold [1,0], cols pred [1,0]):
+[[383  93]
+ [ 99 158]]
+Ordinal (rows gold [C1,C2,C3/C4], cols pred):
+[[189  72  40]
+ [ 46  85  44]
+ [ 35  75 147]]
+  C1: P=0.700 R=0.628 F1=0.662 n=301
+  C2: P=0.366 R=0.486 F1=0.418 n=175
+  C3/C4: P=0.636 R=0.572 F1=0.602 n=257
+
