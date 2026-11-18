@@ -9,7 +9,18 @@ authors:
   - family-names: "Umam"
     given-names: "Busro Akramul"
     email: "busro.umam@gmail.com"
-    affiliation: "Department of Informatics Engineering, Faculty of Engineering, Universitas Islam Madura, Indonesia"
+    affiliation: "Universitas Islam Madura, Indonesia"
+  - family-names: "Prasetya"
+    given-names: "Didik Dwi"
+    email: "didikdwi@um.ac.id"
+    affiliation: "Universitas Negeri Malang, Indonesia"
+  - family-names: "Setyawan"
+    given-names: "Mohammad Bhanu"
+    email: "m.banu@umpo.ac.id"
+    affiliation: "Universitas Muhammadiyah Ponorogo, Indonesia"
+  - name: "Ahmad"
+    email: "asirahmad41@gmail.com"
+    affiliation: "Universitas Islam Madura, Indonesia"
 keywords:
   - concept map assessment
   - Sentence-BERT
